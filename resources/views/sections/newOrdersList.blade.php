@@ -46,10 +46,6 @@
                 </table>
             </div>
         @endforeach
-        {{--<div role="tabpanel" class="tab-pane active" id="expired">Хуй</div>--}}
-        {{--<div role="tabpanel" class="tab-pane" id="current">...</div>--}}
-        {{--<div role="tabpanel" class="tab-pane" id="new">...</div>--}}
-        {{--<div role="tabpanel" class="tab-pane" id="competed">...</div>--}}
     </div>
 
 
